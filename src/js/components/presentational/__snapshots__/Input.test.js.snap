@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Rendering simple component 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <input
+    autoComplete="off"
+    className="form-control"
+    id="user-input"
+    name="user"
+    placeholder="User"
+    type="text"
+  />,
+  "nodes": Array [
+    <input
+      autoComplete="off"
+      className="form-control"
+      id="user-input"
+      name="user"
+      placeholder="User"
+      type="text"
+    />,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_context": Object {},
+    "_element": <Input />,
+    "_forcedUpdate": false,
+    "_instance": Input {
+      "context": Object {},
+      "props": Object {},
+      "refs": Object {},
+      "state": null,
+      "updater": Updater {
+        "_callbacks": Array [],
+        "_renderer": [Circular],
+      },
+    },
+    "_newState": null,
+    "_rendered": <input
+      autoComplete="off"
+      className="form-control"
+      id="user-input"
+      name="user"
+      placeholder="User"
+      type="text"
+    />,
+    "_rendering": false,
+    "_updater": Updater {
+      "_callbacks": Array [],
+      "_renderer": [Circular],
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Input />,
+}
+`;
