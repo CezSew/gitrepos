@@ -9,4 +9,4 @@ To fix the problem, inside of node_modules folder move babel-core inside jest co
 
 About author
 
-Cezary Sewerynski @2018
+Cezsew @2018
